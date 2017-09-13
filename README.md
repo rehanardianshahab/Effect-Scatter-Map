@@ -1,5 +1,7 @@
 ## 1. Effect Scatter Map
+
 I.	Jenis Chart : Scatter
+
 II.	Option :
 
 #### **Title** ####
@@ -63,7 +65,7 @@ II.	Option :
 9.	geo : bottom (string,number) : jarak objek dari sebelah bawah.
 10.	geo : layoutSize (number,string) : persentase relatif terhadap lebar layar, dan nilai piksel mutlak didukung
 
-#### ** Tooltip** ####.
+#### ** Tooltip** ####
 1.	tooltip: trigger (string)item : untuk chart yang tidak memiliki kategori,seperti scatter chart/pie chart.
 2.	tooltip: trigger (string)none : untuk tidak menampilkan kategori.
 #### **Toolbox** ####
